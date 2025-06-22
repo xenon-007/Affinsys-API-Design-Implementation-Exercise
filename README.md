@@ -46,31 +46,45 @@ A simple **Flask + SQLAlchemy** based digital wallet system with:
 
 
 
-
 ### Fund Wallet
 
-![fund wallet screenshot](screenshots/fund.png)
+![image](https://github.com/user-attachments/assets/5f7336b3-14f9-42e8-88f4-ea03d63584ee)
 
 
 
 ### Pay Another User
 
-![pay user screenshot](screenshots/pay.png)
+![image](https://github.com/user-attachments/assets/98a59a45-dd89-40a5-93ca-c513296357f0)
+
 
 
 ### View Balance
 
-![view balance screenshot](screenshots/balance.png)
+![image](https://github.com/user-attachments/assets/039f3d4b-de7a-4e95-bfdf-bbe153c54c51)
+
+
+
+### Adding of the Product only by registered User
+
+![image](https://github.com/user-attachments/assets/2977bf7c-a174-4ce8-8908-0aac0d3dfd98)
+
+
+
+### Global Catlog of Products
+
+![image](https://github.com/user-attachments/assets/416340af-db86-4086-8bba-e2a266a72c3c)
+
 
 
 ### Buy Product
 
-![buy product screenshot](screenshots/buy.png)
+![image](https://github.com/user-attachments/assets/404b5f6f-9573-4a90-bb77-3e0ed8535f5d)
 
 
 
 ### Transaction History
 
-![transaction history screenshot](screenshots/transactions.png)
+![image](https://github.com/user-attachments/assets/220c6fd4-397f-49cc-9188-e6bc601e9da5)
+
 
 
